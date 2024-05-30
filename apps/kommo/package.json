@@ -1,0 +1,13 @@
+{
+    "name": "@salesbot-kommo/kommo",
+    "version": "1.0.0",
+    "private": true,
+    "license": "UNLICENSED",
+    "installConfig": {
+        "hoistingLimits": "workspaces"
+    },
+    "dependencies": {
+        "@shevernitskiy/amo": "^0.2.5",
+        "nats-micro": "^0.28.5"
+    }
+}

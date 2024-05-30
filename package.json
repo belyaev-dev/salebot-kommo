@@ -1,0 +1,12 @@
+{
+  "name": "salebot-kommo",
+  "packageManager": "yarn@4.2.2",
+  "workspaces": [
+    "apps/*"
+  ],
+  "devDependencies": {
+    "eslint": "^9.3.0",
+    "prettier": "^3.2.5",
+    "typescript": "5.4.3"
+  }
+}
